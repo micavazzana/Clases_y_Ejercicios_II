@@ -1,0 +1,16 @@
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.exe
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.deps.json
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.json
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.dev.json
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.dll
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\ref\Clase_01.dll
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\bin\Debug\net5.0\Clase_01.pdb
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.csproj.AssemblyReference.cache
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfoInputs.cache
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfo.cs
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.csproj.CoreCompileInputs.cache
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.dll
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\ref\Clase_01.dll
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.pdb
+E:\UTN\02_Materias 2\00_2022\Clases\Clase_01\obj\Debug\net5.0\Clase_01.genruntimeconfig.cache
