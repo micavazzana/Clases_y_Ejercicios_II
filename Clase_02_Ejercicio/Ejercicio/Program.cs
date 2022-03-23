@@ -3,7 +3,6 @@ using BiblioClases;
 
 namespace EjercicioI01
 {
-    //Ejercicio I01 - Validador de rangos
     //Realizar una clase llamada Validador que posea un método estático
     //llamado Validar con la siguiente firma: bool Validar(int valor, int min, int max)
     //Pedir al usuario que ingrese 10 números enteros.
@@ -13,6 +12,7 @@ namespace EjercicioI01
     {
         static void Main(string[] args)
         {
+            Console.Title = "Ejercicio I01 - Validador de rangos";
             int numero;
             int minimo = int.MaxValue;
             int maximo = int.MinValue;

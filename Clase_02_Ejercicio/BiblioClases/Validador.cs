@@ -12,5 +12,14 @@ namespace BiblioClases
             }
             return false;
         }
+
+        public static bool ValidarRespuesta(string respuesta)
+        {
+            if(respuesta == "S")
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }
