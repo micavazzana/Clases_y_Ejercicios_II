@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj": {}
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj": {}
   },
   "projects": {
-    "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj",
         "projectName": "BiblioClases",
-        "projectPath": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj",
         "projectName": "Ejercicio I01",
-        "projectPath": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\Ejercicio\\Ejercicio I01.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\Ejercicio\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\Ejercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj": {
-                "projectPath": "E:\\UTN\\02_Materias 2\\00_2022\\Clases\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj"
+              "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj": {
+                "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_02_Ejercicio\\BiblioClases\\BiblioClases.csproj"
               }
             }
           }
