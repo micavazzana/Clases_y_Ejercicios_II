@@ -21,7 +21,7 @@ namespace BiblioClases
             {
                 Console.WriteLine(msjError);
             }
-            num = numeroAux; //no estoy segura de como resolver esto y no asignar el numero en caso de que este errado el ingreso.
+            num = 0; //no estoy segura de como resolver esto y no asignar el numero en caso de que este errado el ingreso.
             return false;
         }
     }
