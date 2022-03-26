@@ -11,6 +11,7 @@ namespace BiblioClases
                 return true;
             }
             return false;
+            //return valor > min && valor < max;
         }
 
         public static bool ValidarRespuesta(string respuesta)
@@ -20,6 +21,7 @@ namespace BiblioClases
                 return true;
             }
             return false;
+            //return respuesta == "s" || respuesta == "S";
         }
     }
 }

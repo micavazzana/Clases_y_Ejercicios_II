@@ -27,28 +27,26 @@ namespace BiblioClases
             return sb.ToString(); 
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="numeroEntero"></param>
+        /// <returns></returns>
         public static int ConvertirBinarioADecimal(int numeroEntero)
         {
             string strNumero = numeroEntero.ToString();
-            int largoCadena = strNumero.Length;
-            double resultadoExp;
-            double conv = 0;
+            int largoCadena = strNumero.Length - 1;
+            int acumulador = 0;
 
             foreach (char item in strNumero)
             {
-                resultadoExp = Math.Pow(2, largoCadena - 1);
                 if (item  == '1')
                 {
-                    conv += resultadoExp * 1;
-                   
-                }
-                if (item == '0')
-                {
-                    conv += resultadoExp * 0;
-                }
+                    acumulador += (int)Math.Pow(2, largoCadena);
+                }//si es 0 solo acumularia 0 asi que no hago nada
                 largoCadena--;
             }
-            return (int)conv;
+            return acumulador;
         }
     }
 }

@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I01", "Ejercicio\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiblioClases", "BiblioClases\BiblioClases.csproj", "{2CDDD39B-C7BF-42BD-B29A-21F8E2FE66F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I02", "Ejercicio I02\Ejercicio I02.csproj", "{BFACCBC8-B54C-4EEE-BCD2-DB9770E0082D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I02", "Ejercicio I02\Ejercicio I02.csproj", "{BFACCBC8-B54C-4EEE-BCD2-DB9770E0082D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I03", "Ejercicio I03\Ejercicio I03.csproj", "{1B47ECC0-DB9A-441E-84DF-4708EC5EA971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I03", "Ejercicio I03\Ejercicio I03.csproj", "{1B47ECC0-DB9A-441E-84DF-4708EC5EA971}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I04", "Ejercicio I04\Ejercicio I04.csproj", "{6E5EC18B-E913-4DCE-8315-E037ABC04F9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1B47ECC0-DB9A-441E-84DF-4708EC5EA971}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B47ECC0-DB9A-441E-84DF-4708EC5EA971}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B47ECC0-DB9A-441E-84DF-4708EC5EA971}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5EC18B-E913-4DCE-8315-E037ABC04F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5EC18B-E913-4DCE-8315-E037ABC04F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5EC18B-E913-4DCE-8315-E037ABC04F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5EC18B-E913-4DCE-8315-E037ABC04F9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

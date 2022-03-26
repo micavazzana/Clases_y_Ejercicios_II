@@ -1,0 +1,19 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.exe
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.runtimeconfig.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\ref\Ejercicio I04.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\Ejercicio I04.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\BiblioClases.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\bin\Debug\net5.0\BiblioClases.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.csproj.CopyComplete
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\ref\Ejercicio I04.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_02_Ejercicio\Ejercicio I04\obj\Debug\net5.0\Ejercicio I04.genruntimeconfig.cache
