@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I03\\Ejercicio I03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I03\\Ejercicio I03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj",
-        "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I03\\Ejercicio I03.csproj",
+        "projectName": "Ejercicio I03",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I03\\Ejercicio I03.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
