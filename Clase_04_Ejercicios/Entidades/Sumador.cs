@@ -33,7 +33,7 @@ namespace Entidades
         }
         public static long operator +(Sumador s1, Sumador s2)
         {
-            return (long)(s1.cantidadSumas + s2.cantidadSumas);
+            return s1.cantidadSumas + s2.cantidadSumas;
         }
     }
 }
