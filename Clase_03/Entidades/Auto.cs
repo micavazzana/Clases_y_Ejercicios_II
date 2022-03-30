@@ -46,7 +46,7 @@ namespace Entidades
 
         public void SetPatente(string value)
         {
-            if(!string.IsNullOrEmpty(value))
+            if (!string.IsNullOrEmpty(value))
             {
                 this.patente = value;
             }
