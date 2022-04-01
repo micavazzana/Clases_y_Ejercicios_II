@@ -1,0 +1,19 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.exe
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.runtimeconfig.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ejercicio C02.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ej_Estanteria.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\bin\Debug\net5.0\Ej_Estanteria.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.csproj.CopyComplete
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\refint\Ejercicio C02.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\Ejercicio C02.genruntimeconfig.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_04_Ejercicios\Ejercicio C02\obj\Debug\net5.0\ref\Ejercicio C02.dll

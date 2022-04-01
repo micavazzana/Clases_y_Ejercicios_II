@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio I02", "Ejercicio 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Billetes", "Billetes\Billetes.csproj", "{A887DDF1-F3DB-43C0-BCCE-96FE3835FC5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C01", "Ejercicio C01\Ejercicio C01.csproj", "{C0774668-CBFD-438D-AC7E-E1187A287B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio C01", "Ejercicio C01\Ejercicio C01.csproj", "{C0774668-CBFD-438D-AC7E-E1187A287B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorBinario", "ConversorBinario\ConversorBinario.csproj", "{217AC9A8-7234-4411-8AF9-BD4FF2EAD2C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversorBinario", "ConversorBinario\ConversorBinario.csproj", "{217AC9A8-7234-4411-8AF9-BD4FF2EAD2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio C02", "Ejercicio C02\Ejercicio C02.csproj", "{E32AA6C0-E68F-4283-BBE7-0299DF85E8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej_Estanteria", "Ej_Estanteria\Ej_Estanteria.csproj", "{AA437CF3-9CAA-4B8A-A281-CE63BE7AC244}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{217AC9A8-7234-4411-8AF9-BD4FF2EAD2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{217AC9A8-7234-4411-8AF9-BD4FF2EAD2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{217AC9A8-7234-4411-8AF9-BD4FF2EAD2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32AA6C0-E68F-4283-BBE7-0299DF85E8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32AA6C0-E68F-4283-BBE7-0299DF85E8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32AA6C0-E68F-4283-BBE7-0299DF85E8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32AA6C0-E68F-4283-BBE7-0299DF85E8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA437CF3-9CAA-4B8A-A281-CE63BE7AC244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA437CF3-9CAA-4B8A-A281-CE63BE7AC244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA437CF3-9CAA-4B8A-A281-CE63BE7AC244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA437CF3-9CAA-4B8A-A281-CE63BE7AC244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
