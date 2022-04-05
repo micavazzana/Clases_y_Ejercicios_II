@@ -84,9 +84,6 @@
             // cmbMateriaFav
             // 
             this.cmbMateriaFav.FormattingEnabled = true;
-            this.cmbMateriaFav.Items.AddRange(new object[] {
-            "Progra II",
-            "Labo II"});
             this.cmbMateriaFav.Location = new System.Drawing.Point(50, 197);
             this.cmbMateriaFav.Name = "cmbMateriaFav";
             this.cmbMateriaFav.Size = new System.Drawing.Size(296, 23);
@@ -120,6 +117,7 @@
             this.Name = "Frm1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Forms!";
+            this.Load += new System.EventHandler(this.Frm1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

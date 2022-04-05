@@ -29,6 +29,5 @@ namespace Clase_05_Ejercicios
             this.cmbMateriaFav.Items.Add("Labo II");
             this.cmbMateriaFav.SelectedIndex = 0;
         }
-
     }
 }
