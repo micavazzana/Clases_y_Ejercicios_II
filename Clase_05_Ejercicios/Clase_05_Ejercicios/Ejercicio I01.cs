@@ -19,8 +19,16 @@ namespace Clase_05_Ejercicios
 
         private void btnSaludar_Click(object sender, EventArgs e)
         {
-            FormularioSaludar frmSaludo = new FormularioSaludar($"Soy {this.txtBoxNombre.Text} {this.txtBoxApellido.Text}");
+            FormularioSaludar frmSaludo = new FormularioSaludar($"Soy {this.txtBoxNombre.Text} {this.txtBoxApellido.Text} y mi materia favorita es {this.cmbMateriaFav.Text}");
             frmSaludo.ShowDialog();
         }
+
+        private void Frm1_Load(object sender, EventArgs e)
+        {
+            this.cmbMateriaFav.Items.Add("Progra II");
+            this.cmbMateriaFav.Items.Add("Labo II");
+            this.cmbMateriaFav.SelectedIndex = 0;
+        }
+
     }
 }
