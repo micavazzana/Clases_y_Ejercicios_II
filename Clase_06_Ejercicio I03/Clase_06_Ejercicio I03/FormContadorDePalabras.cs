@@ -41,12 +41,23 @@ namespace Clase_06_Ejercicio_I03
         public string MostrarTop3()
         {
             StringBuilder sb = new StringBuilder();
-            foreach(KeyValuePair<string, int> item in diccionario)
+            string palabra = "";
+            int i = 0;
+
+            while (i < 3)
             {
-                if(diccionario.Values.Max())//el value es el mas grande
+                foreach (KeyValuePair<string, int> item in diccionario)
                 {
-                    sb.Append($"{item.Key} Aparece {item.Value}");
+                    if (item.Value == diccionario.Values.Max())
+                    {
+                        palabra = item.Key;
+                        sb.Append($"{item.Key} Aparece {item.Value} \n");
+                    }
                 }
+                if(diccionario.Remove(palabra))
+                {
+                    i++;
+                }                
             }
             return sb.ToString();
         }
