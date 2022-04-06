@@ -1,0 +1,16 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.exe
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.runtimeconfig.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\bin\Debug\net5.0\Clase_06.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\refint\Clase_06.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\Clase_06.genruntimeconfig.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_06\Clase_06\obj\Debug\net5.0\ref\Clase_06.dll
