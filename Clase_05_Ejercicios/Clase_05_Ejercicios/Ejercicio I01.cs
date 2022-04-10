@@ -19,14 +19,29 @@ namespace Clase_05_Ejercicios
 
         private void btnSaludar_Click(object sender, EventArgs e)
         {
-            FormularioSaludar frmSaludo = new FormularioSaludar($"Soy {this.txtBoxNombre.Text} {this.txtBoxApellido.Text} y mi materia favorita es {this.cmbMateriaFav.Text}");
-            frmSaludo.ShowDialog();
+            if (String.IsNullOrWhiteSpace(this.txtBoxNombre.Text) && String.IsNullOrWhiteSpace(this.txtBoxApellido.Text))
+            {
+                MessageBox.Show("Se deben completar los siguientes campos:\nNombre\nApellido", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (String.IsNullOrWhiteSpace(this.txtBoxNombre.Text))
+            {
+                MessageBox.Show("Se deben completar los siguientes campos:\nNombre", "Error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
+            else if (String.IsNullOrWhiteSpace(this.txtBoxApellido.Text))
+            {
+                MessageBox.Show("Se deben completar los siguientes campos:\nApellido", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                FormularioSaludar frmSaludo = new FormularioSaludar($"Soy {this.txtBoxNombre.Text} {this.txtBoxApellido.Text} y mi materia favorita es {this.cmbMateriaFav.Text}");
+                frmSaludo.ShowDialog();
+            }
         }
 
         private void Frm1_Load(object sender, EventArgs e)
         {
-            this.cmbMateriaFav.Items.Add("Progra II");
-            this.cmbMateriaFav.Items.Add("Labo II");
+            this.cmbMateriaFav.Items.Add("Programación II");
+            this.cmbMateriaFav.Items.Add("Laboratorio II");
             this.cmbMateriaFav.SelectedIndex = 0;
         }
     }
