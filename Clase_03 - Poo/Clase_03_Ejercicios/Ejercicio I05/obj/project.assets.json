@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Entidades.dll": {}
         }
+      },
+      "Geometria/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Geometria.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Geometria.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Entidades/Entidades.csproj",
       "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "path": "../Geometria/Geometria.csproj",
+      "msbuildProject": "../Geometria/Geometria.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Entidades >= 1.0.0"
+      "Entidades >= 1.0.0",
+      "Geometria >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I05\\Ejercicio I05.csproj",
+      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Ejercicio I05\\Ejercicio I05.csproj",
       "projectName": "Ejercicio I05",
-      "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I05\\Ejercicio I05.csproj",
+      "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Ejercicio I05\\Ejercicio I05.csproj",
       "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Ejercicio I05\\obj\\",
+      "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Ejercicio I05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +69,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Geometria\\Geometria.csproj": {
+              "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_03 - Poo\\Clase_03_Ejercicios\\Geometria\\Geometria.csproj"
             }
           }
         }

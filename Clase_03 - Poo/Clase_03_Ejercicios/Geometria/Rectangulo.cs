@@ -17,18 +17,20 @@ namespace Geometria
 
         public Rectangulo(Punto vertice1, Punto vertice3)
         {
-            this.vertice1 = vertice1;
-            this.vertice3 = vertice3;
+            this.vertice1 = vertice1;//8,5
+            this.vertice3 = vertice3;//3,2
+            this.vertice2 = new Punto(vertice1.GetX(), vertice3.GetY());//8,2
+            this.vertice4 = new Punto(vertice3.GetX(), vertice1.GetY());//3,5
+            this.area = Math.Abs((this.vertice1.GetX() - this.vertice3.GetX()) * (this.vertice1.GetY() - this.vertice3.GetY()));
+            this.perimetro = Math.Abs((this.vertice1.GetX() - this.vertice3.GetX()) + (this.vertice1.GetY() - this.vertice3.GetY()))*2;
         }
-        public float Area()
+        public float GetArea()
         {
-            //lo de abajo no va
-            return 2;
+            return this.area;
         }
-        public float Perimetro()
+        public float GetPerimetro()
         {
-            //lo de abajo no va
-            return 2;
+            return this.perimetro;
         }
 
     }

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio I05/1.0.0": {
+        "dependencies": {
+          "Entidades": "1.0.0",
+          "Geometria": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I05.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "runtime": {
+          "Entidades.dll": {}
+        }
+      },
+      "Geometria/1.0.0": {
+        "runtime": {
+          "Geometria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geometria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
