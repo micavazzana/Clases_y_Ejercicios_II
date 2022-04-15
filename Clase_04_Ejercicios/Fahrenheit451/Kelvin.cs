@@ -22,11 +22,11 @@ namespace Fahrenheit451
         //Sobrecargas operadores explicit/implicit
         public static explicit operator Celsius(Kelvin grados)
         {
-            return new Celsius((((Farenheit)grados).GetGrados()-32)*5/9);
+            return new Celsius((((Fahrenheit)grados).GetGrados()-32)*5/9);
         }
-        public static explicit operator Farenheit(Kelvin grados)
+        public static explicit operator Fahrenheit(Kelvin grados)
         {
-            return new Farenheit(grados.GetGrados() * 9 / 5 - 459.67);
+            return new Fahrenheit(grados.GetGrados() * 9 / 5 - 459.67);
         }
         public static implicit operator Kelvin(double grados)
         {
