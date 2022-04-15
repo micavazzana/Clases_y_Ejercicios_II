@@ -10,7 +10,6 @@ namespace Billetes
     {
         private double cantidad;
         private static double cotzRespectoDolar;
-
         static Dolar()
         {
             Dolar.cotzRespectoDolar = 1;

@@ -161,11 +161,11 @@
             // btnLockCotizacion
             // 
             this.btnLockCotizacion.BackgroundImage = global::Clase_05_EjercicioCotizador.Properties.Resources.bloquear;
-            this.btnLockCotizacion.ImageIndex = 0;
+            this.btnLockCotizacion.ImageIndex = 1;
             this.btnLockCotizacion.ImageList = this.imageListCandado;
-            this.btnLockCotizacion.Location = new System.Drawing.Point(210, 23);
+            this.btnLockCotizacion.Location = new System.Drawing.Point(210, 16);
             this.btnLockCotizacion.Name = "btnLockCotizacion";
-            this.btnLockCotizacion.Size = new System.Drawing.Size(75, 23);
+            this.btnLockCotizacion.Size = new System.Drawing.Size(75, 34);
             this.btnLockCotizacion.TabIndex = 10;
             this.btnLockCotizacion.UseVisualStyleBackColor = true;
             this.btnLockCotizacion.Click += new System.EventHandler(this.btnLockCotizacion_Click);
@@ -178,6 +178,7 @@
             this.btnConvertirEuro.TabIndex = 11;
             this.btnConvertirEuro.Text = "->";
             this.btnConvertirEuro.UseVisualStyleBackColor = true;
+            this.btnConvertirEuro.Click += new System.EventHandler(this.btnConvertirEuro_Click);
             // 
             // btnConvertirDolar
             // 
@@ -187,6 +188,7 @@
             this.btnConvertirDolar.TabIndex = 12;
             this.btnConvertirDolar.Text = "->";
             this.btnConvertirDolar.UseVisualStyleBackColor = true;
+            this.btnConvertirDolar.Click += new System.EventHandler(this.btnConvertirDolar_Click);
             // 
             // btnConvertirPeso
             // 
@@ -196,6 +198,7 @@
             this.btnConvertirPeso.TabIndex = 13;
             this.btnConvertirPeso.Text = "->";
             this.btnConvertirPeso.UseVisualStyleBackColor = true;
+            this.btnConvertirPeso.Click += new System.EventHandler(this.btnConvertirPeso_Click);
             // 
             // txtBoxCotizacionDolar
             // 
@@ -204,14 +207,19 @@
             this.txtBoxCotizacionDolar.Name = "txtBoxCotizacionDolar";
             this.txtBoxCotizacionDolar.Size = new System.Drawing.Size(100, 23);
             this.txtBoxCotizacionDolar.TabIndex = 14;
+            this.txtBoxCotizacionDolar.Text = "1";
+            this.txtBoxCotizacionDolar.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBoxCotizacionDolar.Leave += new System.EventHandler(this.txtBoxCotizacionDolar_Leave);
             // 
             // txtBoxCotizacionEuro
             // 
             this.txtBoxCotizacionEuro.Enabled = false;
-            this.txtBoxCotizacionEuro.Location = new System.Drawing.Point(321, 23);
+            this.txtBoxCotizacionEuro.Location = new System.Drawing.Point(321, 21);
             this.txtBoxCotizacionEuro.Name = "txtBoxCotizacionEuro";
             this.txtBoxCotizacionEuro.Size = new System.Drawing.Size(100, 23);
             this.txtBoxCotizacionEuro.TabIndex = 15;
+            this.txtBoxCotizacionEuro.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBoxCotizacionEuro.Leave += new System.EventHandler(this.txtBoxCotizacionEuro_Leave);
             // 
             // txtBoxCotizacionPeso
             // 
@@ -220,6 +228,8 @@
             this.txtBoxCotizacionPeso.Name = "txtBoxCotizacionPeso";
             this.txtBoxCotizacionPeso.Size = new System.Drawing.Size(100, 23);
             this.txtBoxCotizacionPeso.TabIndex = 16;
+            this.txtBoxCotizacionPeso.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtBoxCotizacionPeso.Leave += new System.EventHandler(this.txtBoxCotizacionPeso_Leave);
             // 
             // txtBoxEuroAEuro
             // 
@@ -324,8 +334,13 @@
             this.Controls.Add(this.lblDolar);
             this.Controls.Add(this.lblEuro);
             this.Controls.Add(this.lblCotizacion);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FormConversor";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor";
+            this.Load += new System.EventHandler(this.FormConversor_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

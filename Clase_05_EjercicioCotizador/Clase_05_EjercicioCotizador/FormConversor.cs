@@ -13,7 +13,8 @@ namespace Clase_05_EjercicioCotizador
 {
     public partial class FormConversor : Form
     {
-        bool flag = true;
+        bool flag;
+
         public FormConversor()
         {
             InitializeComponent();
@@ -21,10 +22,10 @@ namespace Clase_05_EjercicioCotizador
 
         private void btnLockCotizacion_Click(object sender, EventArgs e)
         {
-            if (flag)
+            if (this.flag)
             {
                 btnLockCotizacion.ImageIndex = 1;
-                flag = false;
+                this.flag = false;
                 txtBoxCotizacionDolar.Enabled = true;
                 txtBoxCotizacionEuro.Enabled = true;
                 txtBoxCotizacionPeso.Enabled = true;
@@ -32,11 +33,94 @@ namespace Clase_05_EjercicioCotizador
             else
             {
                 btnLockCotizacion.ImageIndex = 0;
-                flag = true;
+                this.flag = true;
                 txtBoxCotizacionDolar.Enabled = false;
                 txtBoxCotizacionEuro.Enabled = false;
                 txtBoxCotizacionPeso.Enabled = false;
             }
         }
+
+        private void FormConversor_Load(object sender, EventArgs e)
+        {
+            this.flag = false;
+            btnLockCotizacion.ImageIndex = 1;
+            txtBoxCotizacionDolar.Enabled = true;
+            txtBoxCotizacionEuro.Enabled = true;
+            txtBoxCotizacionPeso.Enabled = true;
+        }
+
+        private void txtBoxCotizacionEuro_Leave(object sender, EventArgs e)
+        {
+            double cotizacionEuro;
+            if (double.TryParse(this.txtBoxCotizacionEuro.Text, out cotizacionEuro) && cotizacionEuro > 0)
+            {
+                Euro.SetCotizacion(cotizacionEuro);
+            }
+            else
+            {
+                this.txtBoxCotizacionEuro.Focus();
+                this.flag = true;
+            }
+        }
+        private void txtBoxCotizacionDolar_Leave(object sender, EventArgs e)
+        {
+            double cotizacionDolar;
+            if (double.TryParse(this.txtBoxCotizacionDolar.Text, out cotizacionDolar) && cotizacionDolar > 0)
+            {
+                //this.txtBoxCotizacionDolar.LostFocus();
+                Peso.SetCotizacion(cotizacionDolar);
+            }
+            else
+            {
+                this.txtBoxCotizacionDolar.Focus();
+                this.flag = true;
+            }
+        }
+        private void txtBoxCotizacionPeso_Leave(object sender, EventArgs e)
+        {
+            double cotizacionPeso;
+            if (double.TryParse(this.txtBoxCotizacionPeso.Text, out cotizacionPeso) && cotizacionPeso > 0)
+            {
+                Peso.SetCotizacion(cotizacionPeso);
+            }
+            else
+            {
+                this.txtBoxCotizacionPeso.Focus();
+                this.flag = true;
+            }
+        }
+
+        private void btnConvertirEuro_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(this.txtBoxEuro.Text))
+            {
+                double cantidad = double.Parse(this.txtBoxEuro.Text);
+                this.txtBoxEuroAEuro.Text = new Euro(cantidad).GetCantidad().ToString();
+                this.txtBoxEuroADolar.Text = ((Dolar)new Euro(cantidad)).GetCantidad().ToString();
+                this.txtBoxEuroAPeso.Text = ((Peso)new Euro(cantidad)).GetCantidad().ToString();
+            }
+        }
+        private void btnConvertirDolar_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(this.txtBoxDolar.Text))
+            {
+                double cantidad = double.Parse(this.txtBoxDolar.Text);
+                this.txtBoxDolarAEuro.Text = ((Euro)new Dolar(cantidad)).GetCantidad().ToString();
+                this.txtBoxDolarADolar.Text = new Dolar(cantidad).GetCantidad().ToString();
+                this.txtBoxDolarAPeso.Text = ((Peso)new Dolar(cantidad)).GetCantidad().ToString();
+            }
+        }
+        private void btnConvertirPeso_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(this.txtBoxPeso.Text))
+            {
+                double cantidad = double.Parse(this.txtBoxPeso.Text);
+                this.txtBoxPesoAEuro.Text = ((Euro)new Peso(cantidad)).GetCantidad().ToString();
+                this.txtBoxPesoADolar.Text = ((Dolar)new Peso(cantidad)).GetCantidad().ToString();
+                this.txtBoxPesoAPeso.Text = new Peso(cantidad).GetCantidad().ToString();
+            }
+        }
+
+       
     }
 }

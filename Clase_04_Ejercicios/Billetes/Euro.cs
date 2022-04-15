@@ -10,7 +10,6 @@ namespace Billetes
     {
         private double cantidad;
         private static double cotzRespectoDolar;
-
         static Euro()
         {
             Euro.cotzRespectoDolar = 1.17;//dolares
@@ -22,6 +21,10 @@ namespace Billetes
         public Euro(double cantidad, double cotizacion) : this(cantidad)
         {
             Euro.cotzRespectoDolar = cotizacion;
+        }
+        public static void SetCotizacion(double valor)
+        {
+            Euro.cotzRespectoDolar = valor;
         }
         public double GetCantidad()
         {
