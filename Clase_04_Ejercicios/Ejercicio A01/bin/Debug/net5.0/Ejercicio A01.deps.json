@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio A01/1.0.0": {
+        "dependencies": {
+          "Fahrenheit451": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio A01.dll": {}
+        }
+      },
+      "Fahrenheit451/1.0.0": {
+        "runtime": {
+          "Fahrenheit451.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio A01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fahrenheit451/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

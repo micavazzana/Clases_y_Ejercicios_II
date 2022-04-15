@@ -207,9 +207,7 @@
             this.txtBoxCotizacionDolar.Name = "txtBoxCotizacionDolar";
             this.txtBoxCotizacionDolar.Size = new System.Drawing.Size(100, 23);
             this.txtBoxCotizacionDolar.TabIndex = 14;
-            this.txtBoxCotizacionDolar.Text = "1";
             this.txtBoxCotizacionDolar.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.txtBoxCotizacionDolar.Leave += new System.EventHandler(this.txtBoxCotizacionDolar_Leave);
             // 
             // txtBoxCotizacionEuro
             // 

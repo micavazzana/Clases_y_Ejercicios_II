@@ -26,7 +26,7 @@ namespace Clase_05_EjercicioCotizador
             {
                 btnLockCotizacion.ImageIndex = 1;
                 this.flag = false;
-                txtBoxCotizacionDolar.Enabled = true;
+                //txtBoxCotizacionDolar.Enabled = true;
                 txtBoxCotizacionEuro.Enabled = true;
                 txtBoxCotizacionPeso.Enabled = true;
             }
@@ -34,7 +34,7 @@ namespace Clase_05_EjercicioCotizador
             {
                 btnLockCotizacion.ImageIndex = 0;
                 this.flag = true;
-                txtBoxCotizacionDolar.Enabled = false;
+                //txtBoxCotizacionDolar.Enabled = false;
                 txtBoxCotizacionEuro.Enabled = false;
                 txtBoxCotizacionPeso.Enabled = false;
             }
@@ -44,7 +44,8 @@ namespace Clase_05_EjercicioCotizador
         {
             this.flag = false;
             btnLockCotizacion.ImageIndex = 1;
-            txtBoxCotizacionDolar.Enabled = true;
+            txtBoxCotizacionDolar.Text = "1";
+            txtBoxCotizacionDolar.Enabled = false;
             txtBoxCotizacionEuro.Enabled = true;
             txtBoxCotizacionPeso.Enabled = true;
         }
@@ -62,20 +63,6 @@ namespace Clase_05_EjercicioCotizador
                 this.flag = true;
             }
         }
-        private void txtBoxCotizacionDolar_Leave(object sender, EventArgs e)
-        {
-            double cotizacionDolar;
-            if (double.TryParse(this.txtBoxCotizacionDolar.Text, out cotizacionDolar) && cotizacionDolar > 0)
-            {
-                //this.txtBoxCotizacionDolar.LostFocus();
-                Peso.SetCotizacion(cotizacionDolar);
-            }
-            else
-            {
-                this.txtBoxCotizacionDolar.Focus();
-                this.flag = true;
-            }
-        }
         private void txtBoxCotizacionPeso_Leave(object sender, EventArgs e)
         {
             double cotizacionPeso;
@@ -89,7 +76,16 @@ namespace Clase_05_EjercicioCotizador
                 this.flag = true;
             }
         }
+        /*
+        private void txtBoxCotizacionDolar_Leave(object sender, EventArgs e)
+        {
+            LostFocus += new EventHandler(FormConversor_LostFocus);
+        }
+        private void FormConversor_LostFocus(object sender, EventArgs e)
+        {
 
+        }*/
+        
         private void btnConvertirEuro_Click(object sender, EventArgs e)
         {
             if (!string.IsNullOrEmpty(this.txtBoxEuro.Text))
@@ -120,7 +116,5 @@ namespace Clase_05_EjercicioCotizador
                 this.txtBoxPesoAPeso.Text = new Peso(cantidad).GetCantidad().ToString();
             }
         }
-
-       
     }
 }

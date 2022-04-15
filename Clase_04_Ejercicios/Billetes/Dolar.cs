@@ -18,6 +18,7 @@ namespace Billetes
         {
             this.cantidad = cantidad;
         }
+        
         public double GetCantidad()
         {
             return this.cantidad;
