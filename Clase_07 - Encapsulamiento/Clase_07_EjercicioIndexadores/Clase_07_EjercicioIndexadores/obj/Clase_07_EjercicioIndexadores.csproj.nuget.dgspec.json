@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj": {}
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj",
         "projectName": "Clase_07_EjercicioIndexadores",
-        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Clase_07_EjercicioIndexadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj"
+              "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07_EjercicioIndexadores\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_07 - Encapsulamiento\\Clase_07_EjercicioIndexadores\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
