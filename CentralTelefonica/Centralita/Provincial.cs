@@ -14,11 +14,23 @@ namespace Centralita
         }
         private Franja franjaHoraria;
 
-        public Provincial(string nroOrigen, Franja miFranja, float duracion, string nroDestino) : base(duracion, nroDestino, nroOrigen)
+
+        /* public Provincial(Franja miFranja, Llamada llamada) 
+             : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
+         {
+             this.franjaHoraria = miFranja;
+         }
+         public Provincial(string nroOrigen, Franja miFranja, float duracion, string nroDestino)
+             : this(miFranja, new Llamada(duracion, nroDestino, nroOrigen))
+         {
+         }*/
+        public Provincial(string nroOrigen, Franja miFranja, float duracion, string nroDestino) 
+            : base(duracion, nroDestino, nroOrigen)
         {
             this.franjaHoraria = miFranja;
         }
-        public Provincial(Franja miFranja, Llamada llamada) : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
+        public Provincial(Franja miFranja, Llamada llamada) 
+            : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
         {
         }
 

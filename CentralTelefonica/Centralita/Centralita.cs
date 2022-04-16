@@ -3,16 +3,16 @@ using System.Text;
 
 namespace Centralita
 {
-    public class _Centralita
+    public class Centralita
     {
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
 
-        public _Centralita()
+        public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
         }
-        public _Centralita(string nombreEmpresa)
+        public Centralita(string nombreEmpresa): this()
         {
             this.razonSocial = nombreEmpresa;
         }
@@ -42,31 +42,32 @@ namespace Centralita
         {
             get
             {
-                return this.listaDeLlamadas;//VER
+                return this.listaDeLlamadas;
             }
-
         }
 
         private float CalcularGanancia(Llamada.TipoLlamada tipo)
         {
-            float acumulador = 0;
+            float acumuladorLocal = 0;
+            float acumuladorProvincial = 0;
+
             foreach (Llamada llamada in Llamadas)
             {
-                if (tipo == Llamada.TipoLlamada.Local && llamada is Local)
+                if(llamada is Local)
                 {
-                    acumulador += ((Local)llamada).CostoLlamada;
-                }
-                else if (tipo == Llamada.TipoLlamada.Provincial && llamada is Provincial)
-                {
-                    acumulador += ((Provincial)llamada).CostoLlamada;
+                    acumuladorLocal += ((Local)llamada).CostoLlamada;
                 }
                 else
                 {
-                    acumulador += ((Provincial)llamada).CostoLlamada;
-                    acumulador += ((Local)llamada).CostoLlamada;
+                    acumuladorProvincial += ((Provincial)llamada).CostoLlamada;
                 }
             }
-            return acumulador;
+            if (tipo == Llamada.TipoLlamada.Local)
+                return acumuladorLocal;
+            else if (tipo == Llamada.TipoLlamada.Provincial)
+                return acumuladorProvincial;
+            else
+                return acumuladorLocal + acumuladorProvincial;
         }
 
         public string Mostrar()
@@ -78,14 +79,14 @@ namespace Centralita
             sb.AppendLine($"Ganancias por llamados provinciales: {GananciasPorProvincial}");
             foreach (Llamada llamada in Llamadas)
             {
-                sb.AppendLine(llamada.ToString());
+                sb.AppendLine(llamada.Mostrar());
             }
             return sb.ToString();
         }
 
         public void OrdenarLlamadas()
         {
-           // Llamadas.Sort(OrdenarPorDuracion());
+           Llamadas.Sort(Llamada.OrdenarPorDuracion);
         }
     }
 }
