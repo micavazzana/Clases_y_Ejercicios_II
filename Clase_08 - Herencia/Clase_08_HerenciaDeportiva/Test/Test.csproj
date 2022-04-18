@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Clase_07 - Encapsulamiento\Clase_07_JugadoresEncapsulados\Clase_06_Estadística deportiva\Biblioteca.csproj" />
+  </ItemGroup>
+
+</Project>
