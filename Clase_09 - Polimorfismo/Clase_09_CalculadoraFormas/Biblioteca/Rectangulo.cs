@@ -28,7 +28,7 @@ namespace Biblioteca
 
         public override double CalcularPerimetro()
         {
-            return (this._base * 2) + (this.altura * 2);
+            return (this._base + this.altura)*2;
         }
     }
 }

@@ -10,8 +10,8 @@ namespace Test
         {
             List<Figura> listaDeFiguras = new List<Figura>();
             Circulo circulito = new Circulo(5);
-            Cuadrado cuadradito = new Cuadrado(2, 3);
-            Rectangulo rectangulito = new Rectangulo(5, 9);
+            Cuadrado cuadradito = new Cuadrado(3);
+            Rectangulo rectangulito = new Rectangulo(5, 2);
             int i = 0;
 
             listaDeFiguras.Add(circulito);
