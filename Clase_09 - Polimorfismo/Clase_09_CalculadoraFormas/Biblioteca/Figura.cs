@@ -10,5 +10,6 @@ namespace Biblioteca
         }
 
         public abstract double CalcularSuperficie();
+        public abstract double CalcularPerimetro();
     }
 }

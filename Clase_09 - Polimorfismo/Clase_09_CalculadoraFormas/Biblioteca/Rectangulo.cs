@@ -8,17 +8,27 @@ namespace Biblioteca
 {
     public class Rectangulo : Figura
     {
+        double _base;
+        double altura;
+
+        public Rectangulo(double _base, double altura)
+        {
+            this._base = _base;
+            this.altura = altura;
+        }
         public override string Dibujar()
         {
-            return "Dibujando rectangulo";
+            return "Dibujando rectangulo...";
         }
 
         public override double CalcularSuperficie()
         {
-            //base por altura
-            return ;
+            return this._base * this.altura;
         }
 
-
+        public override double CalcularPerimetro()
+        {
+            return (this._base * 2) + (this.altura * 2);
+        }
     }
 }

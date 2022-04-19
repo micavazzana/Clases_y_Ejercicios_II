@@ -8,15 +8,25 @@ namespace Biblioteca
 {
     public sealed class Circulo : Figura
     {
+        double diametro;
+
+        public Circulo(double diametro)
+        {
+            this.diametro = diametro;
+        }
 
         public override string Dibujar()
         {
-            return "Dibujando circulo";
+            return "Dibujando circulo...";
         }
         public override double CalcularSuperficie()
         {
-            //
-            return ;
+            return Math.PI * Math.Pow(this.diametro / 2, 2); ;
+        }
+
+        public override double CalcularPerimetro()
+        {
+            return this.diametro * Math.PI;
         }
     }
 }
