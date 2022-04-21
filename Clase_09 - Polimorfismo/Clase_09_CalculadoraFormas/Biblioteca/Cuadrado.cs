@@ -10,12 +10,10 @@ namespace Biblioteca
     {
         public Cuadrado(double lado) : base(lado, lado)
         {
-
         }
         public override string Dibujar()
         {
             return "Dibujando cuadrado...";
-        }
-        
+        }        
     }
 }

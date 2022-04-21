@@ -27,7 +27,7 @@ namespace Biblioteca
         public override bool Equals(object obj)
         {
             Gato g1 = obj as Gato;//si no puede hacer esto me asigna un null
-            return g1 is not null && this == (Gato)obj;
+            return g1 is not null && this == g1;// (Gato)obj;
         }
         public override int GetHashCode()
         {

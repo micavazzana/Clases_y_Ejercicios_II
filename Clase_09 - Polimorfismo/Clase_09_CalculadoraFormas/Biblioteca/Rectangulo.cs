@@ -8,8 +8,8 @@ namespace Biblioteca
 {
     public class Rectangulo : Figura
     {
-        double _base;
-        double altura;
+        private double _base;
+        private double altura;
 
         public Rectangulo(double _base, double altura)
         {

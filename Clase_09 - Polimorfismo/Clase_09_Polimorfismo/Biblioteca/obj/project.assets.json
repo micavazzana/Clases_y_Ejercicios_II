@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_08 - Herencia\\Clase_09_Polimorfismo\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_09 - Polimorfismo\\Clase_09_Polimorfismo\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_08 - Herencia\\Clase_09_Polimorfismo\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_09 - Polimorfismo\\Clase_09_Polimorfismo\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_08 - Herencia\\Clase_09_Polimorfismo\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Clase_09 - Polimorfismo\\Clase_09_Polimorfismo\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

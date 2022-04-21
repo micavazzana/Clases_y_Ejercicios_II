@@ -13,6 +13,7 @@ namespace Polimorfismo
             Perro p = new Perro("",5);
             Animal c = new Perro("",5);
 
+            Console.WriteLine(g.Equals(b));
             Console.WriteLine($"Soy un {a.GetType()} y hago {a.EmitirSonido()}");
             Console.WriteLine($"Soy un {g.GetType()} y hago {g.EmitirSonido()}");
 
