@@ -1,0 +1,24 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\refint\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\Centralita.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\CentralTelefonica\Centralita\obj\Debug\net5.0\ref\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\bin\Debug\net5.0\Centralita.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\bin\Debug\net5.0\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\bin\Debug\net5.0\Centralita.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\refint\Centralita.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\Centralita.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Centralita\CentralTelefonica_Episodio II\Centralita\obj\Debug\net5.0\ref\Centralita.dll

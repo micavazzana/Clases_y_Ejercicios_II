@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\FrmTorneo\\Form.csproj": {}
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\FrmTorneo\\Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\FrmTorneo\\Form.csproj": {
+    "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\FrmTorneo\\Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\FrmTorneo\\Form.csproj",
+        "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\FrmTorneo\\Form.csproj",
         "projectName": "Form",
-        "projectPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\FrmTorneo\\Form.csproj",
+        "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\FrmTorneo\\Form.csproj",
         "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\FrmTorneo\\obj\\",
+        "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\FrmTorneo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Competencia\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
