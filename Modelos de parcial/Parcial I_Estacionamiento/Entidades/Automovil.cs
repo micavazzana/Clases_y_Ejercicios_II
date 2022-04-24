@@ -35,11 +35,10 @@ namespace Entidades
         }
         public override string ImprimirTicket()
         {
-            DateTime tiempo = DateTime.Now;
-            TimeSpan intervalo = tiempo - base.ingreso;
+            TimeSpan intervalo = DateTime.Now - base.ingreso;
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{base.ImprimirTicket()}");
-            sb.AppendLine($"Costo estadia: {Automovil.valorHora * intervalo}");
+            sb.Append($"{base.ImprimirTicket()}");
+            sb.AppendLine($"Costo estadia: ${intervalo.Hours * Automovil.valorHora}");
             return sb.ToString();
         }
         public override bool Equals(object obj)

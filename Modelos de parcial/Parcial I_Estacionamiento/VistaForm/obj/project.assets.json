@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\VistaForm\\VistaForm.csproj",
+      "projectUniqueName": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Estacionamiento\\VistaForm\\VistaForm.csproj",
       "projectName": "VistaForm",
-      "projectPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\VistaForm\\VistaForm.csproj",
+      "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Estacionamiento\\VistaForm\\VistaForm.csproj",
       "packagesPath": "C:\\Users\\Mica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\VistaForm\\obj\\",
+      "outputPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Estacionamiento\\VistaForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Mica\\Desktop\\Vazzana.Micaela.2E\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Estacionamiento\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Mica\\Desktop\\PrograLaboII\\ejerciciosDeClase_PrograLaboII\\Modelos de parcial\\Parcial I_Estacionamiento\\Entidades\\Entidades.csproj"
             }
           }
         }

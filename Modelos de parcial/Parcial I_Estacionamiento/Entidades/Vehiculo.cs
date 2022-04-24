@@ -12,7 +12,7 @@ namespace Entidades
         private string patente;
         public Vehiculo(string patente)
         {
-            this.patente = patente;
+            this.Patente = patente;
             this.ingreso = DateTime.Now.AddHours(-3);
         }
         public string Patente
@@ -23,12 +23,7 @@ namespace Entidades
             }
             set
             {
-                int i = 0;
-                foreach (char item in value)
-                {
-                    ++i;
-                }
-                if (i == 6)
+                if(value.Length == 6)             
                     this.patente = value;
             }
         }
@@ -37,15 +32,18 @@ namespace Entidades
 
         public override string ToString()
         {
-            return String.Format("Patente {0}", this.Patente);
+            string retorno = "Patente invalida";
+            if(this.Patente is not null)
+                retorno = String.Format("Patente {0}", this.Patente);
+            return retorno;
         }
 
         public virtual string ImprimirTicket()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(sb.ToString());
-            sb.AppendLine($"Fecha ingreso: {ingreso.Date}");
-            sb.AppendLine($"Hora ingreso: {ingreso.Hour}");
+            sb.AppendLine($"Fecha ingreso: {ingreso.ToShortDateString()}");
+            sb.AppendLine($"Hora ingreso: {ingreso.ToShortTimeString()}");
             return sb.ToString();
         }
 

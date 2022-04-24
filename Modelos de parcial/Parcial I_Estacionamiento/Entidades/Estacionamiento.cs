@@ -47,7 +47,7 @@ namespace Entidades
         }
         public static Estacionamiento operator + (Estacionamiento e, Vehiculo v)
         {
-            if(e!=v && e.espacioDisponible > e.vehiculos.Count)//validar lo de la patente
+            if(e!=v && e.espacioDisponible > e.vehiculos.Count & v.Patente is not null)
             {
                 e.vehiculos.Add(v);
             }

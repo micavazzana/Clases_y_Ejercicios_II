@@ -15,22 +15,21 @@ namespace Entidades
         {
             Moto.valorHora = 30;
         }
-        public Moto(string patente, int cilindrada) 
+        public Moto(string patente, int cilindrada, short ruedas, int valorHora)
             : base(patente)
         {
             this.cilindrada = cilindrada;
-            
-        }
-        public Moto(string patente, int cilindrada, short ruedas)  
-            : this(patente,cilindrada)
-        {
             this.ruedas = ruedas;
-        }
-        public Moto(string patente, int cilindrada, short ruedas, int valorHora)  
-            : this(patente,cilindrada,ruedas)
-        {
             Moto.valorHora = valorHora;
         }
+        public Moto(string patente, int cilindrada, short ruedas)
+            : this(patente, cilindrada,ruedas,Moto.valorHora)
+        {
+        }
+        public Moto(string patente, int cilindrada) 
+            : this(patente,cilindrada,2)
+        {          
+        }    
 
         public override string ConsultarDatos()
         {
@@ -43,11 +42,10 @@ namespace Entidades
         
         public override string ImprimirTicket()
         {
-            DateTime tiempo = DateTime.Now;
-            TimeSpan intervalo = tiempo - base.ingreso;
+            TimeSpan intervalo = DateTime.Now - base.ingreso;
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{base.ImprimirTicket()}");
-            sb.AppendLine($"Costo estadia: {Moto.valorHora * intervalo}");
+            sb.Append($"{base.ImprimirTicket()}");
+            sb.AppendLine($"Costo estadia: ${Moto.valorHora * intervalo.Hours}");
             return sb.ToString();
         }
         public override bool Equals(object obj)

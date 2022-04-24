@@ -29,18 +29,16 @@ namespace Entidades
         public override string ConsultarDatos()
         {
             StringBuilder sb = new StringBuilder();
-           // sb.AppendLine(base.Patente);
             sb.AppendLine($"Modelo: {this.modelo}");
             sb.AppendLine($"Valor hora: {PickUp.valorHora}");
             return sb.ToString();
         }
         public override string ImprimirTicket()
         {
-            DateTime tiempo = DateTime.Now;
-            TimeSpan intervalo = tiempo - base.ingreso;
+            TimeSpan intervalo = DateTime.Now - base.ingreso;
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"{base.ImprimirTicket()}");
-            sb.AppendLine($"Costo estadia: {PickUp.valorHora * intervalo}");
+            sb.Append($"{base.ImprimirTicket()}");
+            sb.AppendLine($"Costo estadia: ${PickUp.valorHora * intervalo.Hours}");
             return sb.ToString();
         }
         public override bool Equals(object obj)
