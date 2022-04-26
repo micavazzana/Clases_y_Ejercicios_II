@@ -1,0 +1,12 @@
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.AssemblyInfo.cs
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.deps.json
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.dll
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\bin\Debug\net5.0\EntidadFinanciera.pdb
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.dll
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\refint\EntidadFinanciera.dll
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\EntidadFinanciera.pdb
+C:\Users\Mica\Desktop\Vazzana.Micaela.2E\EntidadFinanciera\obj\Debug\net5.0\ref\EntidadFinanciera.dll
