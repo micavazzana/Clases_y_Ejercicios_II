@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioI01_TestDrivenDevelopment/1.0.0": {
+        "runtime": {
+          "EjercicioI01_TestDrivenDevelopment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioI01_TestDrivenDevelopment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
