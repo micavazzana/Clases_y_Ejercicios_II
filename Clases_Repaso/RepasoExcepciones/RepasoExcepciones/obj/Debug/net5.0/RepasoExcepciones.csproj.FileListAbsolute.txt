@@ -1,0 +1,16 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.exe
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.runtimeconfig.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\bin\Debug\net5.0\RepasoExcepciones.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\refint\RepasoExcepciones.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\RepasoExcepciones.genruntimeconfig.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clases_Repaso\RepasoExcepciones\RepasoExcepciones\obj\Debug\net5.0\ref\RepasoExcepciones.dll
