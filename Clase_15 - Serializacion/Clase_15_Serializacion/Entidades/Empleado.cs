@@ -23,7 +23,7 @@ namespace Entidades
         {
             string tareas = string.Empty;
             this.tareas.ForEach(m => tareas += " " + m);
-            return $"{Nombre} {Apellido}";
+            return $"{Nombre} {Apellido}, {tareas}";
 
         }
     }

@@ -1,4 +1,5 @@
-﻿using Entidades;
+﻿using System;
+using Entidades;
 
 namespace Consola
 {
@@ -8,11 +9,27 @@ namespace Consola
         {
             Persona alumno = new Alumno("Don gato", 23, 5);
             Persona profesor = new Profesor("Benito", 45, "ASD123");
+            ((Alumno)alumno).Materias.Add("Programacion");
+            ((Alumno)alumno).Materias.Add("Laboratorio");
 
-            //Serializadora.SerializarXmlTextWriter("profeSerializadoXMLProfesor.xml", profesor);
+            Serializadora.SerializarXmlTextWriter("profesorSerializadoXMLProfesor.xml", profesor);
             Serializadora.SerializarStreamWriter("alumnoSerializadoStreamWriter.xml", alumno);
 
             Persona a = Serializadora.DeserializarStreamReader("alumnoSerializadoStreamWriter.xml");
+            Console.WriteLine(a.ToString());
+
+            Console.WriteLine("\n/****JSON:***/\n");
+            //JSON
+            Empleado empleado = new Empleado();
+            empleado.Nombre = "Pepe";
+            empleado.Apellido = "Perez";
+            empleado.Tareas.Add("Cocinar");
+            empleado.Tareas.Add("Limpiar");
+            Serializadora.SerializarJSON("persona.json",empleado);
+
+            Empleado e = Serializadora.DesSerializarJSON("persona.json");
+            Console.WriteLine(e.ToString());
         }
     }
 }
+ 

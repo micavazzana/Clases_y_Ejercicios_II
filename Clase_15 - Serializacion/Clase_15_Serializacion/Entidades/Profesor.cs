@@ -3,7 +3,7 @@
     public class Profesor : Persona
     {
         private string legajo;
-        public Profesor()
+        public Profesor() : base()
         {
 
         }
