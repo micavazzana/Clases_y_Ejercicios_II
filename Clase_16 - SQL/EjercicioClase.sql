@@ -90,3 +90,4 @@ select sum(cantidad) cantidad_total from ventas
 select top(3) productos.nombre from ventas
 inner join productos on ventas.id_producto = productos.id
 order by ventas.id asc
+
