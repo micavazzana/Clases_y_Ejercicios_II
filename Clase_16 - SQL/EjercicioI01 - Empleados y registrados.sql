@@ -73,8 +73,8 @@ select * from empleados where mail is null or esta_activo = 0
 --3
 select * from empleados where mail is not null and nombre like '%a%'--contains(nombre,'a')
 --4
-select * from empleados where salario >= 250000.00 and fecha_alta >= '2000-01-01'
-or salario < 250000.00 and fecha_alta < '2000-01-01'
+select * from empleados where salario >= 250000.00 and fecha_alta >= '2000'
+or salario < 250000.00 and fecha_alta < '2000'
 --5
 select * from empleados where salario between 100000.00 and 250000.00
 --6
@@ -120,5 +120,49 @@ select empleados.nombre, empleados.apellido, puestos.nombre, puestos.nivel_autor
 from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto 
 where empleados.esta_activo = 1 order by puestos.nivel_autorizacion asc
 --6
-select * from puestos
+select puestos.nombre from puestos
+left join empleados on empleados.id_puesto = puestos.id_puesto 
+where empleados.id_puesto is null
 --7
+select puestos.nombre from puestos
+inner join empleados on empleados.id_puesto = puestos.id_puesto 
+
+
+--PUNTO 8
+--1
+select avg(salario) as promedio from empleados where esta_activo = 1
+--deberia darme: 305245 aprox
+--2
+select sum(salario) as suma from empleados where esta_activo = 1
+--3
+select count(nombre) from empleados where salario > 250000.00
+--4
+select count(nombre) from empleados where fecha_alta < '2010'
+--5
+select top(1) * from empleados order by salario desc
+--select max(salario) from empleados
+--6
+select top(1) * from puestos order by nivel_autorizacion asc
+--select min(nivel_autorizacion) from puestos
+--7
+select CONCAT(nombre,' ',apellido) as nombre_completo from empleados
+--8
+select CONCAT(empleados.nombre,' ',apellido) as nombre_completo, puestos.nombre, puestos.nivel_autorizacion 
+from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto
+--9
+select CONCAT(empleados.nombre,' ',apellido) as nombre_completo, puestos.nombre, puestos.nivel_autorizacion
+from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto
+select CONCAT(empleados.nombre,' ',apellido) as nombre_completo, puestos.nombre, puestos.nivel_autorizacion 
+from puestos left join empleados on empleados.id_puesto = puestos.id_puesto where empleados.id_puesto is null
+/** REVISAR LO ANTERIOR; LO PIDE EN UNA SOLA CONSULTA**/
+
+--PUNTO 9
+--1
+
+--2
+--3
+--4
+--5
+--6
+--7
+--8
