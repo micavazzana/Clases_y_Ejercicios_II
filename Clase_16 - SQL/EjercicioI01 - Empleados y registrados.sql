@@ -139,11 +139,9 @@ select count(nombre) from empleados where salario > 250000.00
 --4
 select count(nombre) from empleados where fecha_alta < '2010'
 --5
-select top(1) * from empleados order by salario desc
---select max(salario) from empleados
+select * from empleados where salario = (select max(salario) from empleados)
 --6
-select top(1) * from puestos order by nivel_autorizacion asc
---select min(nivel_autorizacion) from puestos
+select * from puestos where nivel_autorizacion = (select min(nivel_autorizacion) from puestos)
 --7
 select CONCAT(nombre,' ',apellido) as nombre_completo from empleados
 --8
@@ -154,15 +152,46 @@ select CONCAT(empleados.nombre,' ',apellido) as nombre_completo, puestos.nombre,
 from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto
 select CONCAT(empleados.nombre,' ',apellido) as nombre_completo, puestos.nombre, puestos.nivel_autorizacion 
 from puestos left join empleados on empleados.id_puesto = puestos.id_puesto where empleados.id_puesto is null
+
+
 /** REVISAR LO ANTERIOR; LO PIDE EN UNA SOLA CONSULTA**/
 
 --PUNTO 9
 --1
-
+select count(*) cantidad from empleados group by empleados.id_puesto
 --2
+select avg(salario) promedio_salario from empleados group by empleados.id_puesto
 --3
+select nombre, apellido, salario from empleados where salario = (select max(salario) from empleados)
 --4
+select empleados.nombre, empleados.apellido, puestos.nombre, puestos.nivel_autorizacion 
+from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto
+where puestos.nivel_autorizacion =(select max(puestos.nivel_autorizacion) from puestos)
 --5
+select top(1)* from empleados order by fecha_alta asc
 --6
+select * from empleados where salario > (select avg(salario) from empleados)
 --7
---8
+select count(*) cantidad from empleados where salario > (select avg(salario) from empleados)
+
+--PUNTO 10
+update empleados set mail = 'mbrock@yahoo.com' where id_empleado = 3
+select * from empleados where id_empleado = 3
+--PUNTO 11
+update empleados set id_puesto = 4, salario = 210000.00 where id_empleado = 3
+select empleados.nombre, empleados.apellido, puestos.nombre as puesto, empleados.salario, empleados.esta_activo, empleados.fecha_alta, empleados.fecha_baja, mail
+from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto where id_empleado = 3
+--PUNTO 12
+update empleados set salario += salario * 0.25 where salario <250000.00
+select empleados.nombre, empleados.apellido, puestos.nombre as puesto, empleados.salario, empleados.esta_activo, empleados.fecha_alta, empleados.fecha_baja, mail
+from empleados inner join puestos on empleados.id_puesto = puestos.id_puesto--(select iif(esta_activo = 0,'no','si') from empleados)
+--PUNTO 13: EXPORTAR
+--BACKUP DATABASE EMPRESA_DB TO DISK = 'filepath' 
+--SUPUESTAMENTE ANDA, sino desde click derecho -> tasks -> backup
+--PUNTO 14
+update empleados set esta_activo = 0, fecha_baja = GETDATE() where id_empleado = 1
+select * from empleados where id_empleado = 1
+--PUNTO 15
+delete from empleados where esta_activo = 0
+select * from empleados
+--PUNTO 16
