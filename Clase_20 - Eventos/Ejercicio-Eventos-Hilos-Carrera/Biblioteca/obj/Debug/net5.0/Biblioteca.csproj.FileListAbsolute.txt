@@ -1,0 +1,36 @@
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Esteban\Desktop\CarreritaF1\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Esteban\Downloads\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_20 - Eventos\Ejercicio-Eventos-Hilos-Carrera\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

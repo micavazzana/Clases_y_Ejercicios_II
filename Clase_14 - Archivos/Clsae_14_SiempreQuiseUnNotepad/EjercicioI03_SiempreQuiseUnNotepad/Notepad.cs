@@ -43,12 +43,11 @@ namespace EjercicioI03_SiempreQuiseUnNotepad
                 if(ofd.ShowDialog() == DialogResult.OK)
                 {
                     this.rtbTexto.Text = this.gestor.Leer(ofd.FileName);
-                }
-                
+                }        
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error: {ex.Message}\nStack Trace: {ex.StackTrace}");
+                MensajeError(ex);
             }
         }
 
@@ -63,7 +62,7 @@ namespace EjercicioI03_SiempreQuiseUnNotepad
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error: {ex.Message}\nStack Trace: {ex.StackTrace}");
+                MensajeError(ex);
             }
         }
 
@@ -78,8 +77,12 @@ namespace EjercicioI03_SiempreQuiseUnNotepad
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error: {ex.Message}\nStack Trace: {ex.StackTrace}");
+                MensajeError(ex);
             }
+        }
+        private void MensajeError(Exception ex)
+        {
+            MessageBox.Show($"Error: {ex.Message}\nStack Trace: {ex.StackTrace}");
         }
     }
 }

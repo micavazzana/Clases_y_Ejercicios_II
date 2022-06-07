@@ -2,7 +2,7 @@
 
 namespace Entidades
 {
-    [XmlInclude(typeof(Alumno)), XmlInclude(typeof(Profesor))]
+    [XmlInclude(typeof(Alumno)), XmlInclude(typeof(Profesor)), XmlInclude(typeof(Jefe<Empleado>))]
     public class Persona
     {
         protected string nombre;

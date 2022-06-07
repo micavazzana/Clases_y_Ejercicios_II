@@ -15,7 +15,7 @@ namespace Entidades
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter($"{ruta}"))
+                using (StreamWriter sw = new StreamWriter(ruta,append))
                 {
                     sw.WriteLine(dato);
                     return true;
@@ -31,7 +31,7 @@ namespace Entidades
         {
             try
             {
-                using (StreamReader sr = new StreamReader($"{ruta}"))
+                using (StreamReader sr = new StreamReader(ruta))
                 {
                     return sr.ReadToEnd();
                 }
