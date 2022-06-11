@@ -1,0 +1,17 @@
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.exe
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.deps.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\refint\Consola.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.pdb
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_18 - Delegados y Expresiones Lambda\Clase_19_Hilos\Consola\obj\Debug\net5.0\ref\Consola.dll
+C:\Users\Mica\Desktop\PrograLaboII\ejerciciosDeClase_PrograLaboII\Clase_19 - Multi-Hilo  y Concurrencia\Clase_19_Hilos\Consola\bin\Debug\net5.0\Consola.exe
