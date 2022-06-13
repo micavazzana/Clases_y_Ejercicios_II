@@ -30,24 +30,32 @@ namespace TimerApp
             this.temporizador.NotificarTiempo += Actualizar;
             //Task tarea = Task.Run(this.temporizador.Correr);
             this.temporizador.NotificarActualizacionTiempo += Imprimir;
-            this.temporizador.Correr();
+            this.temporizador.Correr();        
         }
 
         public void Actualizar()
         {
             MessageBox.Show("Se cumplio el tiempo");
         }
+        int[] numeros = { 1, 2, 3, 5 };
 
         private void Imprimir(string mensaje)
         {
-            if (this.InvokeRequired)
+            if (this.lblTimer.InvokeRequired)
             {
-                this.BeginInvoke(new TimerDelegadoActualizarTimer(Imprimir), new object[] { mensaje });
+                TimerDelegadoActualizarTimer delegado = Imprimir;
+                object[] argumentos = { mensaje };
+                this.BeginInvoke(delegado, argumentos);
             }
             else
             {
                 this.lblTimer.Text = mensaje;
             }
+        }
+
+        private void FrmTimerApp_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            
         }
     }
 }

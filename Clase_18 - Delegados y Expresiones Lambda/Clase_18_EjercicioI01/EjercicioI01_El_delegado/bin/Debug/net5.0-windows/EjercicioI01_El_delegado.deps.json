@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioI01_El_delegado/1.0.0": {
+        "runtime": {
+          "EjercicioI01_El_delegado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioI01_El_delegado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

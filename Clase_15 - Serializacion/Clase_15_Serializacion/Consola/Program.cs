@@ -13,7 +13,7 @@ namespace Consola
             ((Alumno)alumno).Materias.Add("Laboratorio");
             Jefe<Empleado> jefe = new Jefe<Empleado>();
 
-            Serializadora.SerializarXmlTextWriter("jefe.xml", jefe);
+            Serializadora.SerializarXmlTextWriter("jefe", jefe);
             /*Serializadora.SerializarXmlTextWriter("profesorSerializadoXMLProfesor.xml", profesor);
             Serializadora.SerializarStreamWriter("alumnoSerializadoStreamWriter.xml", alumno);
 

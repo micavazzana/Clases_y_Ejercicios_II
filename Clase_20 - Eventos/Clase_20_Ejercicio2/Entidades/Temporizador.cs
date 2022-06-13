@@ -32,8 +32,6 @@ namespace Entidades
                     this.NotificarTiempo.Invoke();
             });
         }
-
-        
     }
 }
 
