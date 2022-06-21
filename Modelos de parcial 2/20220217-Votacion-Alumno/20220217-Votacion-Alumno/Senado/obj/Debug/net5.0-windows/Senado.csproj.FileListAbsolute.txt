@@ -1,0 +1,65 @@
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.FrmSenado.resources
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.exe
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.deps.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.dev.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\ref\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\Senado.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\ref\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.genruntimeconfig.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\bin\Debug\net5.0-windows\CoreLibraries.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\Senado\obj\Debug\net5.0-windows\Senado.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.exe
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.deps.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.dev.json
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\ref\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Senado.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\CoreLibraries.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Files.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\CoreLibraries.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\bin\Debug\net5.0-windows\Files.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.FrmSenado.resources
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.csproj.CopyComplete
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\ref\Senado.dll
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.pdb
+J:\Visual UTN 2019\Examenes\20211202-Votacion\20211202-Votacion-Full\Senado\obj\Debug\net5.0-windows\Senado.genruntimeconfig.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.exe
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.deps.json
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.json
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.runtimeconfig.dev.json
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.dll
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\Senado.pdb
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\CoreLibraries.dll
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\bin\Debug\net5.0-windows\CoreLibraries.pdb
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.csproj.AssemblyReference.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.FrmSenado.resources
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.csproj.GenerateResource.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfoInputs.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.AssemblyInfo.cs
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.csproj.CoreCompileInputs.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.csproj.CopyComplete
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.dll
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\refint\Senado.dll
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.pdb
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\Senado.genruntimeconfig.cache
+C:\Users\Mica\Desktop\20220217-Votacion-Alumno\20220217-Votacion-Alumno\Senado\obj\Debug\net5.0-windows\ref\Senado.dll

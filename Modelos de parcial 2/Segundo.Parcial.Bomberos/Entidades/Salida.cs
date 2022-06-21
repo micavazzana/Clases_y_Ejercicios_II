@@ -14,25 +14,21 @@ namespace Entidades
         public Salida()
         {
             this.fechaInicio = DateTime.Now;
+           // this.fechaFin = new DateTime();
         }
-
         public DateTime FechaFin { get => fechaFin; set => fechaFin = value; }
         public DateTime FechaInicio { get => fechaInicio; set => fechaInicio = value; }
-        public double TiempoTotal
+        public double TiempoTotal 
         { 
-            get; 
+            get
+            {
+                return this.fechaFin.CalcularDiferenciaSegundos(this.fechaInicio);
+            }
         }
 
         public void FinalizarSalida()
         {
             this.fechaFin = DateTime.Now;
-        }
-    }
-    public static class DateTimeExtendido
-    { 
-        static void DiferenciaFechas(this DateTime fecha)
-        {
-
         }
     }
 }
